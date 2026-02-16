@@ -18,32 +18,5 @@
 
 ---
 
-## Project Preview
 
-![Home](Screenshot 2026-02-14 183108.png)
-
----
-
-## Features
-
-- User Login & Signup
-- Browse Food Items
-- Add to Cart
-- Online Payment (Stripe)
-- Admin Panel (Add / Delete Items)
-- Order Management
-
----
-
-## Project Structure
-
-frontend/  
-backend/  
-admin/
-
----
-
-## Getting Started
-
-### 1. Clone the repository
 
