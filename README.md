@@ -20,7 +20,7 @@
 
 ## Project Preview
 
-![Home](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2026-02-14 183108.png)
+![Home](Screenshot 2026-02-14 183108.png)
 
 ---
 
